@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad400953b60bd4f46ad225a4161e2df2, type: 3}
   m_Name: FigmaImporterSettings
   m_EditorClassIdentifier: 
-  clientCode: 
-  state: 
-  token: 
-  url: 
+  clientCode: Qmkyf9HiHr4jjV2cSEEiZazsx
+  state: 511682477
+  token: Xnpxe5TaffMKcDBtchlCtry0DY6QcWubkPHzqqgv
+  url: https://www.figma.com/file/Ud6hFx4lXg3dTx0ibQD61W/MatchForGloryTest?node-id=119%3A0
   rendersPath: FigmaImporter/Renders
